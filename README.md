@@ -2,7 +2,7 @@
 
 **Authors**: [Yifan Li](https://jackyfl.github.io/), [Xin Li](https://scholar.google.com/citations?hl=zh-CN&user=KkPdvB8AAAAJ), [Tianqin Li](https://crazy-jack.github.io/), [Wenbin He](https://hewenbin.github.io/), [Yu Kong](https://www.egr.msu.edu/~yukong/), [Ren Liu](https://www.liu-ren.com/)
 
-The official implementation of the paper "[ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads](https://arxiv.org/pdf/2506.03433)".
+The official implementation of our ICCV 2025 paper "[ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads](https://arxiv.org/pdf/2506.03433)".
 
 [Paper](https://arxiv.org/pdf/2506.03433) | [Project](https://jackyfl.github.io/vitsplit.github.io/)
 
@@ -34,7 +34,7 @@ Vision foundation models (VFMs) have demonstrated remarkable performance across 
 We demonstrate our ViT-Split on four tasks: [segmentation](segmentation), [detection](detection), [VQA](LLaVA) and [MDE (monocular depth estimation)](Monocular-Depth-Estimation-Toolbox).
 
 - Conda env
-  - Note that detection and segmentation tasks share the same env **vitsplit**. VQA uses **vitsplit-llava** and MDE uses **vitsplit-mde**
+  - Note that detection and segmentation tasks share the same env **vitsplit**. VQA uses **vitsplit-llava** and MDE uses **vitsplit-mde**. For more information to setup the conda env, please refer to the according codebase.
 
 ## License
 
