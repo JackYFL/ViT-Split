@@ -1,10 +1,10 @@
 # [ICCV 2025] ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads
+[Paper](https://arxiv.org/pdf/2506.03433) | [Project](https://jackyfl.github.io/vitsplit.github.io/)
 
 **Authors**: [Yifan Li](https://jackyfl.github.io/), [Xin Li](https://scholar.google.com/citations?hl=zh-CN&user=KkPdvB8AAAAJ), [Tianqin Li](https://crazy-jack.github.io/), [Wenbin He](https://hewenbin.github.io/), [Yu Kong](https://www.egr.msu.edu/~yukong/), [Ren Liu](https://www.liu-ren.com/)
 
 The official implementation of our ICCV 2025 paper "[ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads](https://arxiv.org/pdf/2506.03433)".
 
-[Paper](https://arxiv.org/pdf/2506.03433) | [Project](https://jackyfl.github.io/vitsplit.github.io/)
 
 ## Citation
 
