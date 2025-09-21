@@ -6,7 +6,7 @@ from openai import OpenAI
 import time
 
 NUM_SECONDS_TO_SLEEP = 0.5
-API_KEY = "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"
+API_KEY = ""
 client = OpenAI(api_key=API_KEY)
 
 def get_eval(content: str, max_tokens: int):
