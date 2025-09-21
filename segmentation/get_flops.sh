@@ -1,0 +1,1 @@
+python get_flops.py configs/ade20k/vitsplit/linear_dinov2_vitsplit_small_512_20k_ade20k.py 

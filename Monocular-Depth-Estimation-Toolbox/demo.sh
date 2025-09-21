@@ -1,0 +1,2 @@
+python tools/new_test.py /home/liyifa11/MyCodes/ViT-Adapter/Monocular-Depth-Estimation-Toolbox/work_dirs/linear_dinov2l_vitsplit_nyu_4frozen_layers_3tuning_layers/vitsplit_dinov2l_nyu.py /home/liyifa11/MyCodes/ViT-Adapter/Monocular-Depth-Estimation-Toolbox/work_dirs/linear_dinov2l_vitsplit_nyu_4frozen_layers_3tuning_layers/best_abs_rel_iter_28800.pth --show-dir depth_ADE20K \
+    
