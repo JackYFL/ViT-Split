@@ -33,8 +33,11 @@ Vision foundation models (VFMs) have demonstrated remarkable performance across 
 
 We demonstrate our ViT-Split on four tasks: [segmentation](segmentation), [detection](detection), [VQA](LLaVA) and [MDE (monocular depth estimation)](Monocular-Depth-Estimation-Toolbox).
 
-- Conda env
-  - Note that detection and segmentation tasks share the same env **vitsplit**. VQA uses **vitsplit-llava** and MDE uses **vitsplit-mde**. For more information to setup the conda env, please refer to the according codebase.
+- **Conda Environments**
+  - Detection and segmentation tasks share the same environment: **vitsplit**  
+  - VQA uses **vitsplit-llava**  
+  - MDE uses **vitsplit-mde**  
+  - For detailed setup instructions, please refer to the corresponding codebase
 
 ## License
 
