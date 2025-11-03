@@ -11,11 +11,13 @@ The official implementation of our ICCV 2025 paper "[ViT-Split: Unleashing the P
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 
 ```
-@article{li2025vit,
-  title={ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads},
-  author={Li, Yifan and Li, Xin and Li, Tianqin and He, Wenbin and Kong, Yu and Ren, Liu},
-  journal={arXiv preprint arXiv:2506.03433},
-  year={2025}
+@InProceedings{Li_2025_ICCV,
+    author    = {Li, Yifan and Li, Xin and Li, Tianqin and He, Wenbin and Kong, Yu and Ren, Liu},
+    title     = {ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {1979-1989}
 }
 ```
 
